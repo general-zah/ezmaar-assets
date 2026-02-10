@@ -46,6 +46,7 @@ This SRS is structured to be directly usable with:
 ## 3. Project Objectives
 
 - Premium dark-themed corporate website
+- Brand colour theme: Burgundy(#800020)
 - iOS 26 Liquid Glass UI aesthetic
 - Framer-level animations and micro-interactions
 - SEO-optimized for global and local markets
